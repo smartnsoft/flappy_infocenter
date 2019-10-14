@@ -3,12 +3,12 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flappy_infocenter'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A Flutter plugin to handle events of the iOS Playing Info Center.'
   s.description      = <<-DESC
 A new flutter plugin project.
                        DESC
-  s.homepage         = 'http://example.com'
+  s.homepage         = 'https://github.com/smartnsoft/flappy_infocenter'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'EQUINOA' => 'register@smartnsoft.com' }
   s.source           = { :path => '.' }

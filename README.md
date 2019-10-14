@@ -5,7 +5,7 @@ A Flutter plugin to handle iOS Playing Info Center events such as _play_, _pause
 ## Installation
 
 ```
-flappy_infocenter: 1.0.0
+flappy_infocenter: 1.0.1
 ```
 
 ## Getting Started

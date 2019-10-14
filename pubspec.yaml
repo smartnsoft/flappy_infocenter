@@ -1,8 +1,8 @@
 name: flappy_infocenter
 description: A Flutter plugin to handle events of the iOS Playing Info Center
-version: 1.0.0
+version: 1.0.1
 author: Equinoa<register@smartnsoft.com>
-homepage:
+homepage: https://github.com/smartnsoft/flappy_infocenter
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
