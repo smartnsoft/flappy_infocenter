@@ -1,4 +1,4 @@
-group 'com.equinoa.flappyiosplayernotif.iosnotif'
+group 'com.equinoa.flappy_infocenter'
 version '1.0-SNAPSHOT'
 
 buildscript {
